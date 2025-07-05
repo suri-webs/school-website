@@ -13,7 +13,7 @@ export default function Home() {
       <Header />
       <Event />
       <ApplyNow />
-      <Subscribe />
+      <Subscribe /> 
       <ContactUs />
       <Footer />
     </>
