@@ -1,5 +1,4 @@
 import ContactUs from "@/component/contactus";
-import Counter from "@/component/counter";
 import Event from "@/component/event";
 import Header from "@/component/header";
 import Navbar from "@/component/navbar";
@@ -11,7 +10,6 @@ export default function Home() {
       <Navbar />
       <Header />
       <Event />
-      {/* <Counter /> */}
       <SignUp />
       <ContactUs />
     </>
