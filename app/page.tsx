@@ -5,6 +5,7 @@ import Footer from "@/component/footer";
 import Header from "@/component/header";
 import Navbar from "@/component/navbar";
 import Subscribe from "@/component/Subscribe";
+import Video from "@/component/Video";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       <Navbar />
       <Header />
       <Event />
+      <Video/>
       <ApplyNow />
       <Subscribe /> 
       <ContactUs />
